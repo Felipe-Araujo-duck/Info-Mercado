@@ -24,3 +24,5 @@ C:\Users\User\Desktop\Info-Mercado\Info Mercado\obj\Debug\Info Mercado.csproj.Ge
 C:\Users\User\Desktop\Info-Mercado\Info Mercado\obj\Debug\Info Mercado.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\Info-Mercado\Info Mercado\obj\Debug\Info Mercado.exe
 C:\Users\User\Desktop\Info-Mercado\Info Mercado\obj\Debug\Info Mercado.pdb
+C:\Users\User\Desktop\Info-Mercado\Info Mercado\obj\Debug\Info_Mercado.CadastroProd.resources
+C:\Users\User\Desktop\Info-Mercado\Info Mercado\obj\Debug\Info_Mercado.PesquisaProd.resources
